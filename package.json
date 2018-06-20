@@ -44,5 +44,14 @@
         "tslint": "^5.8.0",
         "@types/node": "^7.0.43",
         "@types/mocha": "^2.2.42"
-    }
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/derekjones/vscode-docksend/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/derekjones/vscode-docksend"
+    },
+    "homepage": "https://github.com/derekjones/vscode-docksend/blob/master/README.md"
 }
