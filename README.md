@@ -16,7 +16,9 @@ Assuming you have already configured favorites in Transmit [to use DockSend](htt
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.3
+
+Released to the marketplace.
 
 ## Acknowledgements
 
