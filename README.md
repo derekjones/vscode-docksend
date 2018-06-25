@@ -1,5 +1,9 @@
 # DockSend Support for Visual Studio Code
 
+[![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/derekderekderek.docksend.svg)](https://marketplace.visualstudio.com/items?itemName=derekderekderek.docksend)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/derekderekderek.docksend.svg)](https://marketplace.visualstudio.com/items?itemName=derekderekderek.docksend)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/derekderekderek.docksend.svg)](https://marketplace.visualstudio.com/items?itemName=derekderekderek.docksend#review-details)
+
 The DockSend extension allows you to upload the currently open file to a server using Transmit's DockSend.
 
 ## How to Use
