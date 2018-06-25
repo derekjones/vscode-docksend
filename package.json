@@ -1,7 +1,7 @@
 {
     "name": "docksend",
-    "displayName": "Docksend",
-    "description": "Upload files using Transmit Docksend",
+    "displayName": "DockSend",
+    "description": "Upload files using Transmit DockSend",
     "version": "0.0.1",
     "publisher": "DerekDerekDerek",
     "engines": {
