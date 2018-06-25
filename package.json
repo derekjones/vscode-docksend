@@ -46,6 +46,11 @@
         "@types/mocha": "^2.2.42"
     },
     "license": "SEE LICENSE IN LICENSE.md",
+    "icon": "vscode-docksend-logo.png",
+    "galleryBanner": {
+        "color": "#00465c",
+        "theme": "dark"
+    },
     "bugs": {
         "url": "https://github.com/derekjones/vscode-docksend/issues"
     },

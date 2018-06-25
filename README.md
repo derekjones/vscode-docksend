@@ -21,6 +21,8 @@ This extension was preceded by:
 - a Python-based solution by Jeff Turcotte for Sublime Text: [Sublime Transmit DockSend](https://github.com/jeffturcotte/sublime_transmit_docksend), and
 - a CoffeScript-based solution by Wes Baker for Atom: [Atom DockSend](https://github.com/wesbaker/atom-docksend)
 
+Icon created by [Vectors Market from the Noun Project](https://thenounproject.com/vectorsmarket/), licensed for use under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
 ## License
 
 [MIT](https://github.com/derekjones/vscode-docksend/blob/master/LICENSE.md)
